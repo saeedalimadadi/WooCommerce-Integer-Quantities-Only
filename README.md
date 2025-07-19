@@ -1,0 +1,1 @@
+# WooCommerce-Integer-Quantities-Only
